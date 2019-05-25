@@ -15,7 +15,7 @@ help of a software load balancer such as HAProxy to run multiple processes to ge
 Installation
 ------------
 
-* Install Tornado   pip install tornado==4.0.1
+* Install Tornado   pip install tornado==4.0.1, work only python2.7
 * Run the service
 
 Usage
